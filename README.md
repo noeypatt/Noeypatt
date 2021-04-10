@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey 👋, Noeypatt
+## Hey 🐱, Noeypatt
 
 
 [![Gmail Badge](https://img.shields.io/badge/-p.supaokit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:p.supaokit@gmail.com)](mailto:p.supaokit@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-noeypatt-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/patnarin-supaokit-3ba59a1a7/) [![Github Badge](https://img.shields.io/badge/-noeypatt-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noeypatt/)](https://www.github.com/noeypatt/) 
